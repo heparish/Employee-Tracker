@@ -21,6 +21,8 @@ The following images show the web application's appearance and functionality:
 
 ### Screenshots
 
+![app running](./Assets/Screenshot_1.png)
+
 ## Questions
 
 Have a question? Contact me on github @heparish 
