@@ -21,8 +21,8 @@ The following images show the web application's appearance and functionality:
 
 ### Screenshots
 
-![app](./assets/Screenshot_1.png)
-![demo](./assets/demo.gif)
+![app](https://raw.githubusercontent.com/heparish/Employee-Tracker/main/assests/Screenshot_1.png)
+![demo](https://raw.githubusercontent.com/heparish/Employee-Tracker/main/assests/demo.gif)
 
 ## Questions
 
